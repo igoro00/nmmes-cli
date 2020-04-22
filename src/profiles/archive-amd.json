@@ -4,7 +4,7 @@
         "encoder-quality": 20,
         "encoder-preset": "fast",
         "normalize-scale": 720,
-        "encoder-video-codec": "hevc_vaapi"
+        "encoder-video-codec": "hevc_amf"
     }
     "messages": [{
         "level": "info",
